@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there, My name is Erik 👋
 
-<!--
-**akhmetpekov/akhmetpekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning iOS development 
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on iOS projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with improving my Swift and iOS skills
+
+- 🏫 I'm currently studying at Astana IT University in Kazakhstan in my final year of study
+
+- 🇰🇷 I'm currently in Korea on an exchange program until December 26, 2023 ✈️
+
+- 📋 I'm open to new job opportunities
+
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:akhmetpekov@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-ospanovadinara-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/onryadom)
+
+
