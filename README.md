@@ -4,8 +4,6 @@
 
 - 👯 I’m looking to collaborate on iOS projects
 
-- 🤔 I’m looking for help with improving my Swift and iOS skills
-
 - 🏫 I'm currently studying at Astana IT University in Kazakhstan in my final year of study
 
 - 🇰🇷 I'm currently in Korea on an exchange program until December 26, 2023 ✈️
