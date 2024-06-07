@@ -10,6 +10,6 @@
 
 - 📋 I'm open to new job opportunities
 
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:akhmetpekov@gmail.com) [![Telegram Badge]([https://img.shields.io/badge/-ospanovadinara-blue?style=flat&logo=Telegram&logoColor=white](https://img.shields.io/badge/-onryadom-blue?style=flat&logo=Telegram&logoColor=white))](https://t.me/onryadom)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:akhmetpekov@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-onryadom-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/onryadom)
 
 
