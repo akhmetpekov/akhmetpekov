@@ -4,9 +4,7 @@
 
 - 👯 I’m looking to collaborate on iOS projects
 
-- 🏫 I'm currently studying at Astana IT University in Kazakhstan in my final year of study
-
-- 🇰🇷 I'm currently in Korea on an exchange program until December 26, 2023 ✈️
+- 🏫 I've graduated from Astana IT University in Kazakhstan.
 
 - 📋 I'm open to new job opportunities
 
